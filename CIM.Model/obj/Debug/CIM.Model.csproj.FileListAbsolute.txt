@@ -1,0 +1,5 @@
+C:\Users\danie\OneDrive\dev\c#\CIM\CIM.Model\bin\Debug\CIM.Model.dll
+C:\Users\danie\OneDrive\dev\c#\CIM\CIM.Model\bin\Debug\CIM.Model.pdb
+C:\Users\danie\OneDrive\dev\c#\CIM\CIM.Model\obj\Debug\CIM.Model.csprojResolveAssemblyReference.cache
+C:\Users\danie\OneDrive\dev\c#\CIM\CIM.Model\obj\Debug\CIM.Model.dll
+C:\Users\danie\OneDrive\dev\c#\CIM\CIM.Model\obj\Debug\CIM.Model.pdb
