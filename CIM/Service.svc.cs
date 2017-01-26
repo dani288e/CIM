@@ -13,6 +13,7 @@ namespace CIM
     // NOTE: In order to launch WCF Test Client for testing this service, please select Service1.svc or Service1.svc.cs at the Solution Explorer and start debugging.
     public class Service : IService
     {
+        //
         public string TestMethod(int value)
         {
             return string.Format("You entered: {0}", value);
