@@ -20,8 +20,8 @@ namespace CIM
 
         public string GetRAM(Device device)
         {
-            //Totally new code
 
+            //TODO - return a device
             return "";
         }
 
